@@ -10,18 +10,10 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-/* 导入 ZenMaruGothic-Medium 字体 */
+/* 导入 Source Han Serif SC 字体 */
 @font-face {
-  font-family: "ZenMaruGothic-Medium";
-  src: url("/assets/font/ZenMaruGothic-Medium.woff2") format("woff2");
-  font-weight: 500;
-  font-display: swap;
-}
-
-/* 导入 LXGW WenKai 字体 */
-@font-face {
-  font-family: "LXGW WenKai";
-  src: url("/assets/font/LXGWWenKai-Regular.woff2") format("woff2");
+  font-family: "Source Han Serif SC";
+  src: url("/assets/font/SourceHanSerifSC-Regular.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
