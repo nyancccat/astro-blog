@@ -1,16 +1,12 @@
 ---
-title: 'SQL 常用命令记录'
-slug: 'sql'
-date: 2022-11-11T19:17:40+08:00
-description: '简单记录一下 SQL 常用命令'
-draft: true
-
-tags: ['SQL']
-categories: ['学习备忘']
+"title": "SQL 常用命令记录"
+"published": "2022-11-11T11:17:40.000Z"
+"description": "简单记录一下 SQL 常用命令"
+"tags":
+  - "SQL"
+"category": "学习备忘"
+"draft": true
 ---
-
-
-
 ## DDL 数据定义
 
 ### 一、库管理

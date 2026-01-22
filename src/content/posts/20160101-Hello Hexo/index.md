@@ -1,7 +1,7 @@
 ---
 "title": "Hello Hexo"
-"published": "2016-01-01 20:46:25"
-"updated": "2016-01-01"
+"published": "2016-01-01T12:46:25.000Z"
+"updated": "2016-01-01T00:00:00.000Z"
 "description": "Hello Hexo"
 "tags":
   - "Hexo"

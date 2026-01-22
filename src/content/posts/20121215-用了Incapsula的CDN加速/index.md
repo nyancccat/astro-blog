@@ -1,7 +1,7 @@
 ---
 "title": "用了Incapsula的CDN加速"
-"published": "2012-12-15 11:15:31"
-"updated": "2012-12-15"
+"published": "2012-12-15T03:15:31.000Z"
+"updated": "2012-12-15T00:00:00.000Z"
 "description": "用了Incapsula的CDN加速"
 "image": "./1607363620.jpg"
 "tags":

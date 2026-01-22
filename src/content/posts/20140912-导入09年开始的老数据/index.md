@@ -1,7 +1,7 @@
 ---
 "title": "导入 09 年开始的老数据"
-"published": "2014-09-12 19:24:54"
-"updated": "2014-09-12"
+"published": "2014-09-12T11:24:54.000Z"
+"updated": "2014-09-12T00:00:00.000Z"
 "description": "导入 09 年开始的老数据"
 "image": "./oldcontrolpanel.jpg"
 "tags":

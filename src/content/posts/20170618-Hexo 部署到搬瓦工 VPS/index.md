@@ -1,7 +1,7 @@
 ---
 "title": "Hexo 部署到搬瓦工 VPS"
-"published": "2017-06-18 12:36:04"
-"updated": "2017-06-18"
+"published": "2017-06-18T04:36:04.000Z"
+"updated": "2017-06-18T00:00:00.000Z"
 "description": "Hexo 部署到搬瓦工 VPS"
 "image": "./etc_sudoers.jpg"
 "tags":

@@ -1,15 +1,15 @@
 ---
-title: Simple Guides for Mizuki
-published: 2024-04-01
-description: "How to use this blog template."
-image: "./cover.webp"
-tags: ["Mizuki", "Blogging", "Customization"]
-category: Guides
-draft: false
+"title": "Simple Guides for Mizuki"
+"published": "2024-04-01T00:00:00.000Z"
+"description": "How to use this blog template."
+"image": "./cover.webp"
+"tags":
+  - "Mizuki"
+  - "Blogging"
+  - "Customization"
+"category": "Guides"
+"draft": false
 ---
-
-
-
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
 
 ## Front-matter of Posts

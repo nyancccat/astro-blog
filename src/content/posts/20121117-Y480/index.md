@@ -1,7 +1,7 @@
 ---
 "title": "Y480"
-"published": "2012-11-17 11:20:50"
-"updated": "2012-11-17"
+"published": "2012-11-17T03:20:50.000Z"
+"updated": "2012-11-17T00:00:00.000Z"
 "description": "Y480"
 "image": "./1141894393.jpg"
 "tags":

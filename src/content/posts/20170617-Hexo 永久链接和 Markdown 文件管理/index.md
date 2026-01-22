@@ -1,7 +1,7 @@
 ---
 "title": "Hexo 永久链接管理"
-"published": "2017-06-17 18:36:04"
-"updated": "2017-06-17"
+"published": "2017-06-17T10:36:04.000Z"
+"updated": "2017-06-17T00:00:00.000Z"
 "description": "Hexo 永久链接管理"
 "image": "./posts_screenshot.png"
 "tags":

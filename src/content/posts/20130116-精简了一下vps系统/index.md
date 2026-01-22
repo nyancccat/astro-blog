@@ -1,7 +1,7 @@
 ---
 "title": "精简了一下vps系统"
-"published": "2013-01-16 11:03:20"
-"updated": "2013-01-16"
+"published": "2013-01-16T03:03:20.000Z"
+"updated": "2013-01-16T00:00:00.000Z"
 "description": "精简了一下vps系统"
 "image": "./2855228556.jpg"
 "tags":

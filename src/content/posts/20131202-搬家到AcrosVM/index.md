@@ -1,7 +1,7 @@
 ---
 "title": "搬家到 AcrosVM"
-"published": "2013-12-02 01:39:18"
-"updated": "2013-12-09"
+"published": "2013-12-01T17:39:18.000Z"
+"updated": "2013-12-09T00:00:00.000Z"
 "description": "搬家到 AcrosVM"
 "image": "./acrosvm-plan.jpg"
 "tags":

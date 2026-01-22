@@ -1,7 +1,7 @@
 ---
 "title": "安装anmpp"
-"published": "2013-06-05 01:24:35"
-"updated": "2013-06-09"
+"published": "2013-06-04T17:24:35.000Z"
+"updated": "2013-06-09T00:00:00.000Z"
 "description": "安装anmpp"
 "image": "./1435145810.png"
 "tags":

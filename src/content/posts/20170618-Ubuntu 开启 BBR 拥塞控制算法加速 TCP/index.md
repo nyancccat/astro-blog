@@ -1,7 +1,7 @@
 ---
 "title": "Ubuntu 开启 BBR 拥塞控制算法加速 TCP"
-"published": "2017-06-18 00:36:04"
-"updated": "2017-06-18"
+"published": "2017-06-17T16:36:04.000Z"
+"updated": "2017-06-18T00:00:00.000Z"
 "description": "Ubuntu 开启 BBR 拥塞控制算法加速 TCP"
 "image": "./ssr-cs.gif"
 "tags":

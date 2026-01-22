@@ -1,7 +1,7 @@
 ---
 "title": "VPS 命令备忘"
-"published": "2012-10-30 12:17:35"
-"updated": "2012-10-30"
+"published": "2012-10-30T04:17:35.000Z"
+"updated": "2012-10-30T00:00:00.000Z"
 "description": "VPS 命令备忘"
 "tags":
   - "VPS"

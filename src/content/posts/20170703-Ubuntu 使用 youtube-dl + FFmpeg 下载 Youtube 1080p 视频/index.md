@@ -1,7 +1,7 @@
 ---
 "title": "Ubuntu 16.04 使用 youtube-dl + FFmpeg 下载 Youtube 1080p 视频"
-"published": "2017-07-03 23:36:04"
-"updated": "2017-07-17"
+"published": "2017-07-03T15:36:04.000Z"
+"updated": "2017-07-17T00:00:00.000Z"
 "description": "Ubuntu 16.04 使用 youtube-dl + FFmpeg 下载 Youtube 1080p 视频"
 "tags":
   - "视频下载"

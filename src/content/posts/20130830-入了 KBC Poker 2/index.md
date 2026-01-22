@@ -1,7 +1,7 @@
 ---
 "title": "入了 KBC Poker 2"
-"published": "2013-08-30 00:21:43"
-"updated": "2013-08-30"
+"published": "2013-08-29T16:21:43.000Z"
+"updated": "2013-08-30T00:00:00.000Z"
 "description": "入了 KBC Poker 2"
 "image": "./1137463035.jpg"
 "tags":

@@ -1,7 +1,7 @@
 ---
 "title": "入了个年付 $19.99 搬瓦工 VPS"
-"published": "2017-06-16 23:36:04"
-"updated": "2017-06-16"
+"published": "2017-06-16T15:36:04.000Z"
+"updated": "2017-06-16T00:00:00.000Z"
 "description": "入了个年付 $19.99 搬瓦工 VPS"
 "image": "./pay-banwagong.png"
 "tags":

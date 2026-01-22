@@ -1,7 +1,7 @@
 ---
 "title": "使用Google身份验证器加锁CentOS"
-"published": "2014-06-29 00:31:14"
-"updated": "2014-06-29"
+"published": "2014-06-28T16:31:14.000Z"
+"updated": "2014-06-29T00:00:00.000Z"
 "description": "使用Google身份验证器加锁CentOS"
 "image": "./1002763632.jpg"
 "tags":

@@ -1,7 +1,7 @@
 ---
 "title": "Ubuntu 18.04 安装宝塔面板遇到问题及启用魔改 BBR"
-"published": "2018-12-20 20:49:04"
-"updated": "2019-01-03"
+"published": "2018-12-20T12:49:04.000Z"
+"updated": "2019-01-03T00:00:00.000Z"
 "description": "Ubuntu 18.04 安装宝塔面板遇到问题及启用魔改 BBR"
 "image": "./bbraz.png"
 "tags":
