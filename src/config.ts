@@ -207,9 +207,9 @@ export const siteConfig: SiteConfig = {
 		},
 		cjkFont: {
 			// 中日韩字体 - 作为回退字体
-			fontFamily: "hyksk",
+			fontFamily: "萝莉体 第二版",
 			fontWeight: "500",
-			localFonts: ["hyksk.ttf"],
+			localFonts: ["萝莉体 第二版.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
@@ -410,7 +410,7 @@ export const permalinkConfig: PermalinkConfig = {
 	 *
 	 * 注意：不支持斜杠 "/"，所有生成的链接都在根目录下
 	 */
-	format: "%postname%", // 默认使用文件名
+	format: "%post_id%", // 默认使用文件名
 };
 
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
