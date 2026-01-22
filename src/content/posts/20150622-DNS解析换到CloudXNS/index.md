@@ -1,7 +1,7 @@
 ---
 "title": "DNS 解析换到 CloudXNS"
-"published": "2015-06-22T01:46:41.000Z"
-"updated": "2015-06-28T00:00:00.000Z"
+published: 2015-06-22T01:46:41.000Z
+updated: 2015-06-28T00:00:00.000Z
 "description": "DNS 解析换到 CloudXNS"
 "image": "./CloudXNSdrdc.jpg"
 "tags":

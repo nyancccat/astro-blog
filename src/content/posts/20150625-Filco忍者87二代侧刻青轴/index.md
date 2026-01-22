@@ -1,7 +1,7 @@
 ---
 "title": "Filco 忍者 87 二代侧刻青轴"
-"published": "2015-06-25T13:13:02.000Z"
-"updated": "2015-06-28T00:00:00.000Z"
+published: 2015-06-25T13:13:02.000Z
+updated: 2015-06-28T00:00:00.000Z
 "description": "Filco忍者87二代侧刻青轴"
 "image": "./airplus.jpg"
 "tags":

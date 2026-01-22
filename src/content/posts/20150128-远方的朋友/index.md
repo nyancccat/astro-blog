@@ -1,7 +1,7 @@
 ---
 "title": "远方的朋友"
-"published": "2015-01-28T01:23:38.000Z"
-"updated": "2015-01-28T00:00:00.000Z"
+published: 2015-01-28T01:23:38.000Z
+updated: 2015-01-28T00:00:00.000Z
 "description": "远方的朋友"
 "image": "./letter.png"
 "tags":

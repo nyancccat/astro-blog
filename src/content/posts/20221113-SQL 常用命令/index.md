@@ -1,6 +1,6 @@
 ---
 "title": "SQL 常用命令记录"
-"published": "2022-11-11T11:17:40.000Z"
+published: 2022-11-11T11:17:40.000Z
 "description": "简单记录一下 SQL 常用命令"
 "tags":
   - "SQL"

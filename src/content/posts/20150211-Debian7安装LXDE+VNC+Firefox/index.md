@@ -1,7 +1,7 @@
 ---
 "title": "Debian 7 安装 LXDE + VNC + Firefox"
-"published": "2015-02-11T12:31:41.000Z"
-"updated": "2015-02-22T00:00:00.000Z"
+published: 2015-02-11T12:31:41.000Z
+updated: 2015-02-22T00:00:00.000Z
 "description": "Debian7安装LXDE+VNC+Firefox"
 "image": "./bandwagon-cp.png"
 "tags":

@@ -1,7 +1,7 @@
 ---
 "title": "使用 Dota Mods Installer 替换 Dota2 模型"
-"published": "2017-08-24T14:36:04.000Z"
-"updated": "2017-08-25T00:00:00.000Z"
+published: 2017-08-24T14:36:04.000Z
+updated: 2017-08-25T00:00:00.000Z
 "description": "使用 Dota Mods Installer 替换 Dota2 模型"
 "image": "./dota-mods-installer.gif"
 "tags":

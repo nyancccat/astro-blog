@@ -1,6 +1,6 @@
 ---
 "title": "Simple Guides for Mizuki"
-"published": "2024-04-01T00:00:00.000Z"
+published: 2024-04-01T00:00:00.000Z
 "description": "How to use this blog template."
 "image": "./cover.webp"
 "tags":

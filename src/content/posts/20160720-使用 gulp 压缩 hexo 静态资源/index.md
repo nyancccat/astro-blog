@@ -1,7 +1,7 @@
 ---
 "title": "使用 gulp 压缩 hexo 静态资源"
-"published": "2016-07-20T00:00:00.000Z"
-"updated": "2016-07-20T00:00:00.000Z"
+published: 2016-07-20T00:00:00.000Z
+updated: 2016-07-20T00:00:00.000Z
 "description": "使用 gulp 压缩 hexo 静态资源"
 "image": "./gulp.png"
 "tags":

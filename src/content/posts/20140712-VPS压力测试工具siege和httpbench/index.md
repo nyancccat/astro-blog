@@ -1,7 +1,7 @@
 ---
 "title": "VPS 压力测试工具 siege 和 httpbench"
-"published": "2014-07-12T03:58:21.000Z"
-"updated": "2014-07-20T00:00:00.000Z"
+published: 2014-07-12T03:58:21.000Z
+updated: 2014-07-20T00:00:00.000Z
 "description": "VPS 压力测试工具s iege 和 httpbench"
 "tags":
   - "httpbench"

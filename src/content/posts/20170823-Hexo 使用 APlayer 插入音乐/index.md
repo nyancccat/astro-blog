@@ -1,7 +1,7 @@
 ---
 "title": "Hexo 使用 APlayer 插入音乐"
-"published": "2017-08-23T14:36:04.000Z"
-"updated": "2018-03-28T00:00:00.000Z"
+published: 2017-08-23T14:36:04.000Z
+updated: 2018-03-28T00:00:00.000Z
 "description": "Hexo 使用 APlayer 插入音乐"
 "tags":
   - "Hexo"

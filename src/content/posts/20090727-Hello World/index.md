@@ -1,7 +1,7 @@
 ---
 "title": "Hello World"
-"published": "2009-07-27T14:12:05.000Z"
-"updated": "2009-07-27T00:00:00.000Z"
+published: 2009-07-27T14:12:05.000Z
+updated: 2009-07-27T00:00:00.000Z
 "description": "Hello World"
 "tags":
   - "Hello World"

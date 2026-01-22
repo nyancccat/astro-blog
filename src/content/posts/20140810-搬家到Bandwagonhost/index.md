@@ -1,7 +1,7 @@
 ---
 "title": "搬家到 Bandwagonhost"
-"published": "2014-08-10T12:29:39.000Z"
-"updated": "2014-08-20T00:00:00.000Z"
+published: 2014-08-10T12:29:39.000Z
+updated: 2014-08-20T00:00:00.000Z
 "description": "搬家到 Bandwagonhost"
 "image": "./kiwiVM.jpg"
 "tags":

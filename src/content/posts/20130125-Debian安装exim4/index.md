@@ -1,7 +1,7 @@
 ---
 "title": "Debian安装exim4"
-"published": "2013-01-25T08:12:52.000Z"
-"updated": "2013-01-25T00:00:00.000Z"
+published: 2013-01-25T08:12:52.000Z
+updated: 2013-01-25T00:00:00.000Z
 "description": "Debian安装exim4"
 "image": "./1138044468.jpg"
 "tags":

@@ -1,7 +1,7 @@
 ---
 "title": "使用 Prism.js 高亮代码"
-"published": "2014-08-27T08:41:54.000Z"
-"updated": "2014-08-27T00:00:00.000Z"
+published: 2014-08-27T08:41:54.000Z
+updated: 2014-08-27T00:00:00.000Z
 "description": "使用 Prism.js 高亮代码"
 "image": "./prism-languages.png"
 "tags":

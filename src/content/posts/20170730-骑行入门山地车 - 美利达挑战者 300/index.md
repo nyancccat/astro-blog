@@ -1,7 +1,7 @@
 ---
 "title": "骑行入门山地车 - 美利达挑战者 300"
-"published": "2017-07-30T12:44:06.000Z"
-"updated": "2017-07-30T00:00:00.000Z"
+published: 2017-07-30T12:44:06.000Z
+updated: 2017-07-30T00:00:00.000Z
 "description": "骑行入门山地车 - 美利达挑战者 300"
 "image": "./challenger300.jpg"
 "tags":

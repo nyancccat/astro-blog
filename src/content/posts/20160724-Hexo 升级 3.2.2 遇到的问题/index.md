@@ -1,7 +1,7 @@
 ---
 "title": "Hexo 升级 3.2.2 遇到的问题"
-"published": "2016-07-24T03:33:38.000Z"
-"updated": "2016-07-24T00:00:00.000Z"
+published: 2016-07-24T03:33:38.000Z
+updated: 2016-07-24T00:00:00.000Z
 "description": "Hexo 升级 3.2.2 遇到的问题"
 "tags":
   - "Hexo"

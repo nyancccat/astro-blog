@@ -1,7 +1,7 @@
 ---
 "title": "Hexo 多部署--同时使用 Coding 和 Github 托管博客"
-"published": "2016-07-18T15:44:21.000Z"
-"updated": "2016-07-18T00:00:00.000Z"
+published: 2016-07-18T15:44:21.000Z
+updated: 2016-07-18T00:00:00.000Z
 "description": "Hexo 多部署--同时使用 Coding 和 Github 托管博客"
 "image": "./id_rsa.pub.png"
 "tags":

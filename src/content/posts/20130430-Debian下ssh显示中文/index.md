@@ -1,7 +1,7 @@
 ---
 "title": "Debian 下 SSH 显示中文"
-"published": "2013-04-29T17:01:12.000Z"
-"updated": "2013-04-30T00:00:00.000Z"
+published: 2013-04-29T17:01:12.000Z
+updated: 2013-04-30T00:00:00.000Z
 "description": "Debian 下 SSH 显示中文"
 "image": "./1829243740.jpg"
 "tags":

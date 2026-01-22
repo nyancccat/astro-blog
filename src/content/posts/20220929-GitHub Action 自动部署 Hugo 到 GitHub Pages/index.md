@@ -1,7 +1,7 @@
 ---
 "title": "GitHub Action 自动部署 Hugo 到 GitHub Pages"
-"published": "2022-09-29T11:17:40.000Z"
-"updated": "2022-10-02T12:09:42.000Z"
+published: 2022-09-29T11:17:40.000Z
+updated: 2022-10-02T12:09:42.000Z
 "description": "简单记录一下 GitHub Action 自动部署 Hugo 到 GitHub Pages"
 "image": "./Explore-GitHub-Actions.png"
 "tags":

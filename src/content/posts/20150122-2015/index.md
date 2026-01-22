@@ -1,7 +1,7 @@
 ---
 "title": "2015"
-"published": "2015-01-22T02:44:21.000Z"
-"updated": "2015-01-22T00:00:00.000Z"
+published: 2015-01-22T02:44:21.000Z
+updated: 2015-01-22T00:00:00.000Z
 "description": "2015"
 "image": "./2015.jpg"
 "tags":

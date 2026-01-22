@@ -1,7 +1,7 @@
 ---
 "title": "使用 StartSSL™ 免费 SSL 证书开启整站 HTTPS"
-"published": "2015-06-04T16:25:06.000Z"
-"updated": "2015-08-25T00:00:00.000Z"
+published: 2015-06-04T16:25:06.000Z
+updated: 2015-08-25T00:00:00.000Z
 "description": "使用 StartSSL™ 免费 SSL 证书开启整站 HTTPS"
 "tags":
   - "SSL"

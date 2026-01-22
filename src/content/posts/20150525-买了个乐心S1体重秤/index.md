@@ -1,7 +1,7 @@
 ---
 "title": "买了个乐心 S1 体重秤"
-"published": "2015-05-24T16:07:49.000Z"
-"updated": "2015-05-28T00:00:00.000Z"
+published: 2015-05-24T16:07:49.000Z
+updated: 2015-05-28T00:00:00.000Z
 "description": "买了个乐心 S1 体重秤"
 "image": "./amazeuimug.jpg"
 "tags":

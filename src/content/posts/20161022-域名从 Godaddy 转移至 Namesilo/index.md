@@ -1,7 +1,7 @@
 ---
 "title": "域名从 Godaddy 转移至 Namesilo"
-"published": "2016-10-22T03:00:23.000Z"
-"updated": "2016-10-22T00:00:00.000Z"
+published: 2016-10-22T03:00:23.000Z
+updated: 2016-10-22T00:00:00.000Z
 "description": "域名从 Godaddy 转移至 Namesilo"
 "image": "./AcceptTransfer.png"
 "tags":

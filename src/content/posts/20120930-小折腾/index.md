@@ -1,7 +1,7 @@
 ---
 "title": "VPS 小折腾"
-"published": "2012-09-29T16:26:05.000Z"
-"updated": "2009-09-30T00:00:00.000Z"
+published: 2012-09-29T16:26:05.000Z
+updated: 2009-09-30T00:00:00.000Z
 "description": "VPS 小折腾"
 "tags":
   - "VPS"
